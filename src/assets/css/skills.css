@@ -1,0 +1,28 @@
+.section-skills {
+  display: flex;
+  padding: 1 rem 0;
+  margin-left: 10rem;
+  width: 70%;
+}
+
+.skills-title {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  color: #34495e;
+}
+.skills-hr {
+  border: none;
+  height: 2px;
+  max-width: 60px;
+  margin: 10px 0;
+  background: #bdc3c7;
+}
+
+.icon-skill {
+  width: 70px;
+  margin: 20px;
+  display: inline-block;
+}
+.react_{
+  fill: skyblue !important;
+}
