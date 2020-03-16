@@ -14,10 +14,10 @@
     height: 180px;
 }
 /* GLOBAL STYLES */
-body {
-	/* background-image: url(../img/19366.jpg); */
+/* body {
+	background-image: url(../img/19366.jpg);
 	background-size: 100%;
-}
+} */
 p{
 	font-family: 'Roboto', sans-serif;
 	vertical-align: inherit;
@@ -55,8 +55,40 @@ span:hover {
 /* Responsive para celular */
 @media (max-width:700px) {
 	.section-name{
-		margin-left: 3rem;
+		display: flex;
+		flex-direction: column;
+		margin: 0px;
 	}
+	._avatar{
+		margin:0px;
+		margin-bottom: 2rem;
+		margin-top: 1rem;
+	}
+	
+	.title{
+		margin:0px
+		
+	}
+	.titulo1{
+		margin:0px;
+		margin-top: 1rem;
+		width: 90%;
+		text-align: justify;
+		
+	}
+	p{
+	
+		font-size: 20px;
+		margin-left: 1em;
+		
+	}
+	.social-networks{
+		margin-left: 1em;
+		margin-bottom: 2em;
+	}
+	
+	
+
 }
 
 

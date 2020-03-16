@@ -1,6 +1,5 @@
 .App {
-  text-align: center;
-  background-color: white;
+  
 }
 
 .App-logo {
@@ -61,4 +60,12 @@
     transition: opacity .25s;
     -webkit-animation: 0;
     animation: 0;
+  }
+
+  @media (max-width:700px) {
+    .App {
+      text-align: center;
+      
+    }
+  
   }

@@ -7,12 +7,12 @@ import Proyects from './components/Proyects'
 
 function App() {
   return (
-      <Fragment>
+      <div className="App">
         <Header/>
         <AboutMe/>
         <Skills/>
         <Proyects/>
-      </Fragment>
+      </div>
 
    
   );

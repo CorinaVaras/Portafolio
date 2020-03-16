@@ -26,3 +26,27 @@
 .react_{
   fill: skyblue !important;
 }
+
+/* Responsive para celular */
+@media (max-width:700px) {
+	.section-skills{
+		display: flex;
+		margin: 0px;
+  }
+  .skills-title{
+		margin: 0;
+		display: flex;
+		margin-left: 1rem;
+	}
+	.skills-hr{
+		margin-left: 1rem;
+		
+  }
+  .icon-skill {
+    width: 46px;
+    margin: 3px;
+    margin-left: 1rem;
+  }
+
+}
+
