@@ -1,27 +1,33 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.45324c67.chunk.css",
-    "main.js": "/Portafolio/static/js/main.3015e3d7.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.3015e3d7.chunk.js.map",
+    "main.css": "/Portafolio/static/css/main.e38fd9fa.chunk.css",
+    "main.js": "/Portafolio/static/js/main.d15d48b2.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.d15d48b2.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.6b964254.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.6b964254.js.map",
     "static/css/2.de424728.chunk.css": "/Portafolio/static/css/2.de424728.chunk.css",
-    "static/js/2.e78ce577.chunk.js": "/Portafolio/static/js/2.e78ce577.chunk.js",
-    "static/js/2.e78ce577.chunk.js.map": "/Portafolio/static/js/2.e78ce577.chunk.js.map",
+    "static/js/2.c0e26b6f.chunk.js": "/Portafolio/static/js/2.c0e26b6f.chunk.js",
+    "static/js/2.c0e26b6f.chunk.js.map": "/Portafolio/static/js/2.c0e26b6f.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.dae5d8fbd1cf7390e97b8b43b01522a4.js": "/Portafolio/precache-manifest.dae5d8fbd1cf7390e97b8b43b01522a4.js",
+    "precache-manifest.1bad8b8fa7f34ca21ff6d074a45ce86d.js": "/Portafolio/precache-manifest.1bad8b8fa7f34ca21ff6d074a45ce86d.js",
     "service-worker.js": "/Portafolio/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/Portafolio/static/css/2.de424728.chunk.css.map",
-    "static/css/main.45324c67.chunk.css.map": "/Portafolio/static/css/main.45324c67.chunk.css.map",
-    "static/js/2.e78ce577.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.e78ce577.chunk.js.LICENSE.txt",
+    "static/css/main.e38fd9fa.chunk.css.map": "/Portafolio/static/css/main.e38fd9fa.chunk.css.map",
+    "static/js/2.c0e26b6f.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.c0e26b6f.chunk.js.LICENSE.txt",
+    "static/media/BurgerQueenn.png": "/Portafolio/static/media/BurgerQueenn.18bae598.png",
+    "static/media/candado.png": "/Portafolio/static/media/candado.a321d0ea.png",
+    "static/media/chooseChampions.png": "/Portafolio/static/media/chooseChampions.02bceabd.png",
     "static/media/corina.JPG": "/Portafolio/static/media/corina.27ae5002.JPG",
-    "static/media/App.css": "/Portafolio/static/media/fondoPortafolio.4b9d6e0a.png"
+    "static/media/App.css": "/Portafolio/static/media/fondoPortafolio.4b9d6e0a.png",
+    "static/media/goMovies.png": "/Portafolio/static/media/goMovies.49fd15f5.png",
+    "static/media/mdLinks.png": "/Portafolio/static/media/mdLinks.c1a235f1.png",
+    "static/media/tipsTech.png": "/Portafolio/static/media/tipsTech.5f608de7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6b964254.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.e78ce577.chunk.js",
-    "static/css/main.45324c67.chunk.css",
-    "static/js/main.3015e3d7.chunk.js"
+    "static/js/2.c0e26b6f.chunk.js",
+    "static/css/main.e38fd9fa.chunk.css",
+    "static/js/main.d15d48b2.chunk.js"
   ]
 }
