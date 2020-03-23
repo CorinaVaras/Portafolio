@@ -1,3 +1,4 @@
+
 .section-proyects {
   padding: 1 rem 0;
   margin-left: 10rem;
@@ -31,18 +32,51 @@
     margin-top: 1rem;
 }
 
-.card-custom:hover{
+/* .card-custom:hover{
   transform: scale(1.1);
-} 
+}  */
 
-/* .imgCard_{
-    width: 130px !important;
-    height: 130px !important;
-  
-}
+.imgCard_{
+    width: 140px !important;
+    height: 140px !important;
+} 
 .imgCard_:hover{
   transform: scale(1.1);
-} */
+}
+.imgCard_2{
+  width: 100px !important;
+  height: 125px !important;
+  margin-top: 10px;
+  margin-bottom: 3px;
+}
+.imgCard_2:hover{
+  transform: scale(1.1);
+}
+.imgCard_md{
+  margin-top: 10px;
+  width: 130px !important;
+  height: 120px !important;
+}
+.imgCard_md:hover{
+  transform: scale(1.1);
+}
+.imgCard_Lol{
+  height: 120px;
+  margin-top: 10px;
+}
+.imgCard_Lol:hover{
+  transform: scale(1.1);
+}
+.imgCard_candado{
+  width: 120px !important;
+    height: 120px !important;
+  margin-top: 10px;
+}
+.imgCard_candado:hover{
+  transform: scale(1.1);
+}
+
+ 
 
 /* Responsive para celular */
 @media (max-width:700px) {
@@ -64,5 +98,6 @@
   .card-custom{
     margin-left: 1rem;
 }
+
 
 }
