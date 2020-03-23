@@ -1,5 +1,15 @@
 .App {
-  
+  background-image: url("./assets/img/fondoPortafolio.png");
+  position: absolute;
+  z-index: -1;
+}
+
+.particle_ {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -100;
 }
 
 .App-logo {
@@ -41,31 +51,37 @@
 
 /* Adding CSS manually is only necessary in JSFiddle,
    where CSS can't be inserted into the <head> */
-   .typed-cursor{
-    opacity: 1;
-    animation: typedjsBlink 0.7s infinite;
-    -webkit-animation: typedjsBlink 0.7s infinite;
-    animation: typedjsBlink 0.7s infinite;
-  }
-  @keyframes typedjsBlink{
-    50% { opacity: 0.0; }
-  }
-  @-webkit-keyframes typedjsBlink{
-    0% { opacity: 1; }
-    50% { opacity: 0.0; }
-    100% { opacity: 1; }
-  }
-  .typed-fade-out{
+.typed-cursor {
+  opacity: 1;
+  animation: typedjsBlink 0.7s infinite;
+  -webkit-animation: typedjsBlink 0.7s infinite;
+  animation: typedjsBlink 0.7s infinite;
+}
+@keyframes typedjsBlink {
+  50% {
     opacity: 0;
-    transition: opacity .25s;
-    -webkit-animation: 0;
-    animation: 0;
   }
+}
+@-webkit-keyframes typedjsBlink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+.typed-fade-out {
+  opacity: 0;
+  transition: opacity 0.25s;
+  -webkit-animation: 0;
+  animation: 0;
+}
 
-  @media (max-width:700px) {
-    .App {
-      text-align: center;
-      
-    }
-  
-  }
+@media (max-width: 700px) {
+  /* .App {
+    text-align: center;
+  } */
+}

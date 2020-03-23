@@ -33,6 +33,7 @@
 	.section-about{
 		display: flex;
 		margin: 0px;
+		width: 64%;
 	}
 	.aboutme-title{
 		margin: 0;

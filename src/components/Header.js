@@ -11,13 +11,14 @@ function header() {
         <img className="_avatar" alt="" src={avatar} />
       </div>
       <div>
-        <div>
+        <div className='title_'>
           <TypedText
             String={[
               "I'am Corina Varas",
               "I love <strong>JavaScript</strong>",
               "I love <strong>Web Design</strong>",
-              "I love <strong>Agile Methodology</strong>"
+              "I love <strong>Agile Methodology</strong>",
+              "I'am Corina Varas"
             ]}
           />
         </div>
