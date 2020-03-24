@@ -18,7 +18,7 @@ function header() {
               "I love <strong>JavaScript</strong>",
               "I love <strong>Web Design</strong>",
               "I love <strong>Agile Methodology</strong>",
-              "I'am Corina Varas"
+              "I'm Corina Varas"
             ]}
           />
         </div>
