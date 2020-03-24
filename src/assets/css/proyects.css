@@ -1,15 +1,19 @@
 
 .section-proyects {
   padding: 1 rem 0;
-  margin-left: 10rem;
+  margin-left: 12rem;
   width: 70%;
+  
 }
 .proyects-title {
+
   font-family: "Roboto", sans-serif;
   font-size: 30px;
   color: #34495e;
   margin-top: 1rem;
+ 
 }
+
 .proyects-hr {
   border: none;
   height: 2px;
@@ -21,6 +25,7 @@
 .card-custom2{
     display: flex;
     justify-content: space-between;
+    max-width: 1000px;
     flex-wrap: wrap;
     
 }
@@ -88,15 +93,19 @@
   .proyects-title{
 		margin: 0;
 		display: flex;
-    margin-left: 1rem;
+    margin-left: 2rem;
     margin-top: 2rem;
-	}
+   
+  }
+  
 	.proyects-hr{
-		margin-left: 1rem;
+		margin-left: 2rem;
 		
   }
   .card-custom{
-    margin-left: 1rem;
+    margin-left: 2rem;
+    text-align: center;
+    
 }
 
 

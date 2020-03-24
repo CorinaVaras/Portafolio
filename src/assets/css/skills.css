@@ -1,8 +1,13 @@
 .section-skills {
-  display: flex;
+  /* display: flex;
   padding: 1 rem 0;
   margin-left: 10rem;
-  width: 70%;
+  width: 70%; */
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 70%;
+  
 }
 
 .skills-title {
@@ -31,7 +36,8 @@
 @media (max-width:700px) {
 	.section-skills{
 		display: flex;
-		margin: 0px;
+    margin: 0px;
+    width: 70%;
   }
   .skills-title{
 		margin: 0;

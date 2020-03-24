@@ -31,7 +31,7 @@ function proyects() {
                 />
               </div>
               <Card.Body>
-                <Card.Title>Burger Queen</Card.Title>
+                <Card.Title>Burger Queen</Card.Title >
                 <Card.Text style={{ fontSize: 16 }}>
                   Burger Queen es una Progressive Web & Single Page App,
                   desarrollada en React con integración de Firebase. Busca como

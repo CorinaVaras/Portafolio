@@ -1,9 +1,13 @@
 .section-about{
-	display: flex;
+	/* display: flex;
 	padding: 1 rem 0;
 	margin-top: 3rem;
 	margin-left: 10rem;
-	width: 70%;
+	width: 70%; */
+	display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 70%;
 	
 }
 .aboutme-title{
@@ -34,6 +38,10 @@
 		display: flex;
 		margin: 0px;
 		width: 64%;
+		/* display: flex;
+		justify-content: center;
+		margin: auto;
+		width: 70%; */
 	}
 	.aboutme-title{
 		margin: 0;
