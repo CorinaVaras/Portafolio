@@ -12,10 +12,9 @@ function aboutMe() {
 			  <hr/>
 			  </div>
 				<p className='aboutme-body'>
-					Soy una profesional apasionada por el mundo de la tecnología. Me gusta
-					asumir retos cada vez más grandes porque permiten poner a prueba mis
-					habilidades resolutivas y los considero una gran oportunidad para
-					aprender y refinar mis habilidades técnicas y blandas.
+					 I'm a professional passionate about the tech-world. 
+	  				 I like to assume bigger challenges every day that allow me to test my habilities to resolve problems,  
+	  				 I consider them a big opportunity to learn and refine my technical and soft skills.
 				</p>
 		</div>
 		
