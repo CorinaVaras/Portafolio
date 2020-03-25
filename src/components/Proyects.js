@@ -33,10 +33,9 @@ function proyects() {
               <Card.Body>
                 <Card.Title>Burger Queen</Card.Title >
                 <Card.Text style={{ fontSize: 16 }}>
-                  Burger Queen es una Progressive Web & Single Page App,
-                  desarrollada en React con integración de Firebase. Busca como
-                  objetivo agilizar el proceso de toma de pedidos de un
-                  restaurant.
+                  Burger Queen is a Progressive Web & Single Page App,
+                  developed in React with Firebase integration. The purpose of the app is to agilize the
+                  process of taking ordes in a Restaurant.
                 </Card.Text>
               </Card.Body>
             </Card>
@@ -51,10 +50,8 @@ function proyects() {
             <Card.Body>
               <Card.Title>Tips Tech</Card.Title>
               <Card.Text style={{ fontSize: 16 }}>
-                Tips Tech es una red social enfocada a un público general en
-                donde podrás encontrar y compartir tips de ofertas en productos
-                tecnológicos que ofrece el mercado hoy en día a través de
-                internet.{" "}
+                Tips Tech is a social network focused in a general public where you can find
+                and share tips or offers in tech products that the market offers nowadays in the Internet.
               </Card.Text>
             </Card.Body>
           </Card>
@@ -69,9 +66,8 @@ function proyects() {
             <Card.Body>
               <Card.Title>Go Movies</Card.Title>
               <Card.Text style={{ fontSize: 16 }}>
-                Es una webapp que provee informacion sobre peliculas,
-                principalmente del genero fantastico. Ademas entrega contenido
-                sobre el mundo Fandom del cine de Ciencia ficcion en internet.
+                I'ts a webapp that provides informaton about movies, mainly of the fantasy genre.
+                Besides, it delivers content of the Fandom World of Science Fiction Films in the Internet.
               </Card.Text>
             </Card.Body>
           </Card>
@@ -86,10 +82,8 @@ function proyects() {
             <Card.Body>
               <Card.Title>MD-Links</Card.Title>
               <Card.Text style={{ fontSize: 16 }}>
-                Es una libreria que puede ser utilizada para extraer links de
-                archivos Markdown, hace la válidación del estado de los enlaces
-                encontrados lo cuál permite conocer si un enlace existe o si
-                esta roto.
+                It's a librery that can be used to extract links from Markdown files,
+                it makes the validation of the state of the links to find which links are ok and which are broken or do not exist.
               </Card.Text>
             </Card.Body>
           </Card>
@@ -108,10 +102,8 @@ function proyects() {
             <Card.Body>
               <Card.Title>Choose Champions</Card.Title>
               <Card.Text style={{ fontSize: 16 }}>
-                Choose Champions es una aplicación móvil de ayuda para cualquier
-                jugador de League of Legends, aquí podrás encontrar mucha
-                información necesaria para poder ser el mejor campeón de la
-                grieta.
+                Choose Champions it's a mobile application that helps any League of Legends player, 
+                here you can find a lot of necessary to be the best champin of the League.
               </Card.Text>
             </Card.Body>
           </Card>
@@ -130,9 +122,8 @@ function proyects() {
             <Card.Body>
               <Card.Title>Cipher</Card.Title>
               <Card.Text style={{ fontSize: 16 }}>
-                Es una mensajería secreta diseñada con el propósito de tener una
-                comunicación totalmente segura sin riegos de que la comunicación
-                pueda ser divulgada o vista por personas ajenas a ella.
+                It's a secret instant messaging app designed with the purpose of having a completely safe communication 
+                without risks of leaks of the conversation, achieved by encrypting the messages end-to-end.
               </Card.Text>
             </Card.Body>
           </Card>
