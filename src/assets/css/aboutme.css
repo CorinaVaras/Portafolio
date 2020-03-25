@@ -1,9 +1,4 @@
 .section-about{
-	/* display: flex;
-	padding: 1 rem 0;
-	margin-top: 3rem;
-	margin-left: 10rem;
-	width: 70%; */
 	display: flex;
     justify-content: center;
     margin: auto;
@@ -14,13 +9,13 @@
 	font-family: 'Roboto', sans-serif;
 	font-size: 30px;
 	color: #34495e;
-	
+	font-weight: bolder;
 }
 .aboutme-body{
 	text-align : justify;
 	margin-top: 2px;
 	font-family: 'Roboto', sans-serif;
-	font-size: 24px;
+	font-size: 20px;
 
 
 }
@@ -38,10 +33,6 @@
 		display: flex;
 		margin: 0px;
 		width: 64%;
-		/* display: flex;
-		justify-content: center;
-		margin: auto;
-		width: 70%; */
 	}
 	.aboutme-title{
 		margin: 0;

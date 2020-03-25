@@ -15,16 +15,12 @@
 	width: 180px;
     height: 180px;
 }
-/* GLOBAL STYLES */
-/* body {
-	background-image: url(../img/19366.jpg);
-	background-size: 100%;
-} */
+
 p{
 	font-family: 'Roboto', sans-serif;
 	vertical-align: inherit;
 	color: #34495e;
-	font-size: 26px;
+	font-size: 20px;
     line-height: 1.4;
     font-weight: 300;
 }
@@ -33,6 +29,7 @@ p{
 	font-family: 'Roboto', sans-serif;
 	font-size: 30px;
 	color: #34495e;
+	font-weight: bolder;
 }
 .titulo1{
 	width: 75%;

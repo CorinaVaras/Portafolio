@@ -11,6 +11,7 @@
   font-size: 30px;
   color: #34495e;
   margin-top: 1rem;
+  font-weight: bolder;
  
 }
 
@@ -78,6 +79,19 @@
   margin-top: 10px;
 }
 .imgCard_candado:hover{
+  transform: scale(1.1);
+}
+.btn_custom{
+  display: flex;
+  justify-content: flex-end;
+  
+  
+}
+i {
+  font-size: 25px;
+  margin-right: 15px;
+}
+i:hover{
   transform: scale(1.1);
 }
 
