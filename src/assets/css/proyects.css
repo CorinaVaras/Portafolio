@@ -27,7 +27,6 @@
     justify-content: space-between;
     max-width: 1000px;
     flex-wrap: wrap;
-    
 }
 
 .card-custom{
@@ -35,6 +34,7 @@
     flex-wrap: nowrap;
     margin-bottom: 1rem;
     margin-top: 1rem;
+    
 }
 
 /* .card-custom:hover{
