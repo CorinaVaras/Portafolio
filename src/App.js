@@ -22,8 +22,11 @@ const particleOpt = {
       "type": "circle",
       "stroke": {
         "width": 0,
-        "color": "#000"
-      }
+        "color": "#ff0000"
+      },
+      "polygon": {
+        "nb_sides": 5
+      },
     },
     "opacity": {
       "value": 0.5211089197812949,
@@ -38,14 +41,14 @@ const particleOpt = {
    
     "line_linked": {
       "enable": true,
-      "distance": 150,
+      "distance": 160,
       "color": "#969696",
       "opacity": 0.4,
       "width": 1
     },
     "move": {
       "enable": true,
-      "speed": 1,
+      "speed": 2,
     }
   },
  

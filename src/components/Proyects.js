@@ -19,8 +19,8 @@ function proyects() {
         </div>
       </div>
 
-      <div className="card-custom2" >
-        <div className="card-custom" style={{cursor:'pointer'}} > 
+      <div className="container-card">
+        <div className="card-custom"> 
           <div>
             <Card style={{ width: "17rem", height: '24rem' }}>
               <div className="text-center">
@@ -38,14 +38,14 @@ function proyects() {
                   process of taking ordes in a Restaurant.
                 </Card.Text>
               <div className='btn_custom'>
-              <i onClick={() => window.open('https://burger-queen-f6c33.firebaseapp.com/','_blank')} class="fas fa-mobile-alt"></i>
-              <i onClick={() => window.open('https://github.com/CorinaVaras/SCL012-burger-queen','_blank')}class="fas fa-code"></i>  
+              <i  onClick={() => window.open('https://burger-queen-f6c33.firebaseapp.com/','_blank')} class="fas fa-mobile-alt"></i>
+              <i  onClick={() => window.open('https://github.com/CorinaVaras/SCL012-burger-queen','_blank')}class="fas fa-code"></i>  
               </div>  
               </Card.Body>
             </Card>
           </div>
         </div>
-        <div className="card-custom" style={{cursor:'pointer'}}>
+        <div className="card-custom">
         <div>
           <Card style={{ width: "17rem", height: '24rem' }}>
             <div className="text-center">
@@ -65,7 +65,7 @@ function proyects() {
           </Card>
           </div>
         </div>
-        <div className="card-custom" style={{cursor:'pointer'}}>
+        <div className="card-custom">
         <div>
           <Card style={{ width: "17rem", height: '24rem' }}>
             <div className="text-center">
@@ -85,7 +85,7 @@ function proyects() {
           </Card>
           </div>
         </div>
-        <div className="card-custom" style={{cursor:'pointer'}}>
+        <div className="card-custom">
         <div>
           <Card style={{ width: "17rem", height: '24rem' }}>
             <div className="text-center">
@@ -105,7 +105,7 @@ function proyects() {
           </Card>
           </div>
         </div>
-        <div className="card-custom" style={{cursor:'pointer'}}>
+        <div className="card-custom">
         <div>
           <Card style={{ width: "17rem", height: '24rem' }}>
             <div className="text-center">
@@ -129,7 +129,7 @@ function proyects() {
           </Card>
           </div>
         </div>
-        <div className="card-custom" style={{cursor:'pointer'}}>
+        <div className="card-custom">
         <div>
           <Card style={{ width: "17rem", height: '24rem' }}>
             <div className="text-center">

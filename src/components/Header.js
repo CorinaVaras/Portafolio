@@ -10,7 +10,7 @@ function header() {
       <div>
         <img className="_avatar" alt="" src={avatar} />
       </div>
-      <div>
+      <div style={{marginLeft: '2rem'}}>
         <div className='title_'>
           <TypedText
             String={[

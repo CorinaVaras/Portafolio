@@ -1,6 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+
 
 .section-proyects {
-  padding: 1 rem 0;
   margin-left: 12rem;
   width: 70%;
   
@@ -23,70 +27,61 @@
   background: #bdc3c7;
 }
 
-.card-custom2{
+.container-card{
     display: flex;
     justify-content: space-between;
     max-width: 1000px;
     flex-wrap: wrap;
+    margin-bottom: 30px;
 }
 
 .card-custom{
-    /* display: inline-block; */
+    display: flex;
     flex-wrap: nowrap;
     margin-bottom: 1rem;
     margin-top: 1rem;
-    
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
 }
 
-/* .card-custom:hover{
+.card-custom:hover{
   transform: scale(1.1);
-}  */
+} 
 
 .imgCard_{
     width: 140px !important;
     height: 140px !important;
 } 
-.imgCard_:hover{
-  transform: scale(1.1);
-}
+
 .imgCard_2{
   width: 100px !important;
   height: 125px !important;
   margin-top: 10px;
   margin-bottom: 3px;
 }
-.imgCard_2:hover{
-  transform: scale(1.1);
-}
+
 .imgCard_md{
   margin-top: 10px;
   width: 130px !important;
   height: 120px !important;
 }
-.imgCard_md:hover{
-  transform: scale(1.1);
-}
+
 .imgCard_Lol{
   height: 120px;
   margin-top: 10px;
 }
-.imgCard_Lol:hover{
-  transform: scale(1.1);
-}
+
 .imgCard_candado{
   width: 120px !important;
     height: 120px !important;
   margin-top: 10px;
 }
-.imgCard_candado:hover{
-  transform: scale(1.1);
-}
+
 .btn_custom{
   display: flex;
   justify-content: flex-end;
-  
-  
+  cursor: pointer;
 }
+
 i {
   font-size: 25px;
   margin-right: 15px;
@@ -94,8 +89,6 @@ i {
 i:hover{
   transform: scale(1.1);
 }
-
- 
 
 /* Responsive para celular */
 @media (max-width:700px) {
@@ -109,18 +102,12 @@ i:hover{
 		display: flex;
     margin-left: 2rem;
     margin-top: 2rem;
-   
   }
-  
 	.proyects-hr{
 		margin-left: 2rem;
-		
   }
   .card-custom{
     margin-left: 2rem;
     text-align: center;
-    
-}
-
-
+  }
 }
