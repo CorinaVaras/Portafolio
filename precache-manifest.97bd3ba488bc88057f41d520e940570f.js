@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a88d30b375ef1cf2805ef0ca0f89942",
+    "revision": "79a0f458fa4a69f667f223049bd68b68",
     "url": "/Portafolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portafolio/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "ae209bf9140878e28875",
-    "url": "/Portafolio/static/css/main.d8556e2d.chunk.css"
+    "revision": "3fa1851d34eb4e9a05b1",
+    "url": "/Portafolio/static/css/main.b85166bb.chunk.css"
   },
   {
     "revision": "a3630f729eaf9683c67c",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portafolio/static/js/2.c0e26b6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae209bf9140878e28875",
-    "url": "/Portafolio/static/js/main.2e4cd5b6.chunk.js"
+    "revision": "3fa1851d34eb4e9a05b1",
+    "url": "/Portafolio/static/js/main.2ee069ce.chunk.js"
   },
   {
     "revision": "1e19020dde68d02f111f",
@@ -32,28 +32,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portafolio/static/media/BurgerQueenn.18bae598.png"
   },
   {
-    "revision": "a321d0eadf33a73aec2bd9a93f586d2c",
-    "url": "/Portafolio/static/media/candado.a321d0ea.png"
-  },
-  {
     "revision": "02bceabdf8996de2434c3c3c291462a1",
     "url": "/Portafolio/static/media/chooseChampions.02bceabd.png"
+  },
+  {
+    "revision": "b87420b8c5b3d5c73b572544ec48fa4d",
+    "url": "/Portafolio/static/media/corazon.b87420b8.png"
   },
   {
     "revision": "27ae5002b17c05df6b619cfd26b27456",
     "url": "/Portafolio/static/media/corina.27ae5002.JPG"
   },
   {
-    "revision": "4b9d6e0aeaf910dc3e4627afce6f857b",
-    "url": "/Portafolio/static/media/fondoPortafolio.4b9d6e0a.png"
+    "revision": "2803e8ad9d8d6ac5016d6f9572440b85",
+    "url": "/Portafolio/static/media/mdlinkss.2803e8ad.jpg"
   },
   {
-    "revision": "49fd15f5cf90820ddc4fd5cc220f5298",
-    "url": "/Portafolio/static/media/goMovies.49fd15f5.png"
-  },
-  {
-    "revision": "c1a235f1c5246e935e5e119ac37b6a74",
-    "url": "/Portafolio/static/media/mdLinks.c1a235f1.png"
+    "revision": "2be6ecfa15564661c5278b8b127d6ea5",
+    "url": "/Portafolio/static/media/peliculas.2be6ecfa.png"
   },
   {
     "revision": "5f608de7911245a1cd39246352fa8a28",
