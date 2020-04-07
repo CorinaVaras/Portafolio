@@ -2,18 +2,18 @@ import React from "react";
 import "../assets/css/proyects.css";
 import BurgerQueen from "../assets/img/BurgerQueenn.png";
 import TipsTech from "../assets/img/tipsTech.png";
-import GoMovies from "../assets/img/goMovies.png";
-import mdLinks from "../assets/img/mdLinks.png";
+import GoMovies from "../assets/img/peliculas.png";
+import mdLinks from "../assets/img/mdlinkss.jpg";
 import chooseChampions from "../assets/img/chooseChampions.png";
-import candado from "../assets/img/candado.png";
+import candado from "../assets/img/corazon.png";
 
-import { Card, Button} from "react-bootstrap";
+import { Card} from "react-bootstrap";
 
 function proyects() {
   return (
     <div className="section-proyects">
       <div>
-        <h1 className="proyects-title">Proyects</h1>
+        <h1 className="proyects-title">Projects</h1>
         <div className="proyects-hr">
           <hr />
         </div>
@@ -22,7 +22,7 @@ function proyects() {
       <div className="container-card">
         <div className="card-custom"> 
           <div>
-            <Card style={{ width: "17rem", height: '24rem' }}>
+            <Card style={{ width: "17rem", height: '25rem' }}>
               <div className="text-center">
                 <Card.Img
                   className="imgCard_"
@@ -47,7 +47,7 @@ function proyects() {
         </div>
         <div className="card-custom">
         <div>
-          <Card style={{ width: "17rem", height: '24rem' }}>
+          <Card style={{ width: "17rem", height: '25rem' }}>
             <div className="text-center">
               <Card.Img className="imgCard_2" variant="top" src={TipsTech} />
             </div>
@@ -67,7 +67,7 @@ function proyects() {
         </div>
         <div className="card-custom">
         <div>
-          <Card style={{ width: "17rem", height: '24rem' }}>
+          <Card style={{ width: "17rem", height: '25rem' }}>
             <div className="text-center">
               <Card.Img className="imgCard_" variant="top" src={GoMovies} />
             </div>
@@ -87,7 +87,7 @@ function proyects() {
         </div>
         <div className="card-custom">
         <div>
-          <Card style={{ width: "17rem", height: '24rem' }}>
+          <Card style={{ width: "17rem", height: '25rem' }}>
             <div className="text-center">
               <Card.Img className="imgCard_md" variant="top" src={mdLinks} />
             </div>
@@ -107,7 +107,7 @@ function proyects() {
         </div>
         <div className="card-custom">
         <div>
-          <Card style={{ width: "17rem", height: '24rem' }}>
+          <Card style={{ width: "17rem", height: '25rem' }}>
             <div className="text-center">
               <Card.Img
                 className="imgCard_Lol"
@@ -131,7 +131,7 @@ function proyects() {
         </div>
         <div className="card-custom">
         <div>
-          <Card style={{ width: "17rem", height: '24rem' }}>
+          <Card style={{ width: "17rem", height: '25rem' }}>
             <div className="text-center">
               <Card.Img
                 className="imgCard_candado"

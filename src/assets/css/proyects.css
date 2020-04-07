@@ -48,21 +48,21 @@
 } 
 
 .imgCard_{
-    width: 140px !important;
-    height: 140px !important;
+  width: 150px !important;
+  height: 140px !important;
+  margin-top: 10px;
 } 
 
 .imgCard_2{
-  width: 100px !important;
-  height: 125px !important;
-  margin-top: 10px;
-  margin-bottom: 3px;
+  width: 105px !important;
+  height: 130px !important;
+  margin-top: 17px;
+ 
 }
 
 .imgCard_md{
-  margin-top: 10px;
-  width: 130px !important;
-  height: 120px !important;
+  width: 230px !important;
+  height: 140px !important;
 }
 
 .imgCard_Lol{
@@ -110,4 +110,14 @@ i:hover{
     margin-left: 2rem;
     text-align: center;
   }
+}
+@media (min-width:1800px){
+
+  .section-proyects {
+    margin-left: 17rem;
+    width: 70%;
+    
+  }
+
+
 }
