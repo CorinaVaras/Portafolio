@@ -12,10 +12,13 @@ import { Card} from "react-bootstrap";
 function proyects() {
   return (
     <div className="section-proyects">
+
       <div>
+        <div>
         <h1 className="proyects-title">Projects</h1>
         <div className="proyects-hr">
-          <hr />
+        <hr />
+        </div>
         </div>
       </div>
 

@@ -2,21 +2,20 @@
   box-sizing: border-box;
 }
 
-
-
 .section-proyects {
-  margin-left: 12rem;
-  width: 70%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    width: 70%;
   
 }
 .proyects-title {
-
   font-family: "Roboto", sans-serif;
   font-size: 30px;
   color: #34495e;
   margin-top: 1rem;
   font-weight: bolder;
- 
 }
 
 .proyects-hr {
