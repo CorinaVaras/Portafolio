@@ -1,32 +1,33 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.9c6be2dc.chunk.css",
-    "main.js": "/Portafolio/static/js/main.9e1fb644.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.9e1fb644.chunk.js.map",
+    "main.css": "/Portafolio/static/css/main.9eb2ffdf.chunk.css",
+    "main.js": "/Portafolio/static/js/main.b444e4ca.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.b444e4ca.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.6b964254.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.6b964254.js.map",
     "static/css/2.de424728.chunk.css": "/Portafolio/static/css/2.de424728.chunk.css",
-    "static/js/2.c0e26b6f.chunk.js": "/Portafolio/static/js/2.c0e26b6f.chunk.js",
-    "static/js/2.c0e26b6f.chunk.js.map": "/Portafolio/static/js/2.c0e26b6f.chunk.js.map",
+    "static/js/2.d218375e.chunk.js": "/Portafolio/static/js/2.d218375e.chunk.js",
+    "static/js/2.d218375e.chunk.js.map": "/Portafolio/static/js/2.d218375e.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.99573b0a5084ecfc3c22a0bbc394e7dd.js": "/Portafolio/precache-manifest.99573b0a5084ecfc3c22a0bbc394e7dd.js",
+    "precache-manifest.7e09d75eaa6eb7e811bed9d34af5f30e.js": "/Portafolio/precache-manifest.7e09d75eaa6eb7e811bed9d34af5f30e.js",
     "service-worker.js": "/Portafolio/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/Portafolio/static/css/2.de424728.chunk.css.map",
-    "static/css/main.9c6be2dc.chunk.css.map": "/Portafolio/static/css/main.9c6be2dc.chunk.css.map",
-    "static/js/2.c0e26b6f.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.c0e26b6f.chunk.js.LICENSE.txt",
+    "static/css/main.9eb2ffdf.chunk.css.map": "/Portafolio/static/css/main.9eb2ffdf.chunk.css.map",
+    "static/js/2.d218375e.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.d218375e.chunk.js.LICENSE.txt",
     "static/media/BurgerQueenn.png": "/Portafolio/static/media/BurgerQueenn.18bae598.png",
     "static/media/chooseChampions.png": "/Portafolio/static/media/chooseChampions.02bceabd.png",
     "static/media/corazon.png": "/Portafolio/static/media/corazon.b87420b8.png",
     "static/media/corina.JPG": "/Portafolio/static/media/corina.27ae5002.JPG",
+    "static/media/hereApi.png": "/Portafolio/static/media/hereApi.e19776f6.png",
     "static/media/mdlinkss.jpg": "/Portafolio/static/media/mdlinkss.2803e8ad.jpg",
-    "static/media/peliculas.png": "/Portafolio/static/media/peliculas.2be6ecfa.png",
+    "static/media/peli4.png": "/Portafolio/static/media/peli4.8b995797.png",
     "static/media/tipsTech.png": "/Portafolio/static/media/tipsTech.5f608de7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6b964254.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.c0e26b6f.chunk.js",
-    "static/css/main.9c6be2dc.chunk.css",
-    "static/js/main.9e1fb644.chunk.js"
+    "static/js/2.d218375e.chunk.js",
+    "static/css/main.9eb2ffdf.chunk.css",
+    "static/js/main.b444e4ca.chunk.js"
   ]
 }
