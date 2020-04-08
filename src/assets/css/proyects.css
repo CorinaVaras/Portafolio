@@ -61,11 +61,12 @@
 
 .imgCard_md{
   width: 230px !important;
-  height: 140px !important;
+  height: 149px !important;
 }
 
 .imgCard_Lol{
-  height: 120px;
+  height: 143px;
+  width: 96% !important;
   margin-top: 10px;
 }
 
@@ -73,6 +74,11 @@
   width: 120px !important;
     height: 120px !important;
   margin-top: 10px;
+}
+.imgCardMoov{
+    width: 200px !important;
+    height: 130px !important;
+    margin-top: 20px;
 }
 
 .btn_custom{
@@ -108,7 +114,7 @@ i:hover{
   }
   .card-custom{
     margin-left: 2rem;
-    text-align: center;
+    /* text-align: center; */
   }
 }
 @media (min-width:1800px){
@@ -121,3 +127,9 @@ i:hover{
 
 
 }
+@media (max-width:1100px){
+  .container-card{
+    width: 105%;
+}
+}
+
