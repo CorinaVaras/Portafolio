@@ -29,7 +29,7 @@ function header() {
           <a className="social-icon" href="https://github.com/CorinaVaras" target="_blank">
             <span className="fab fa-github fa-fw" aria-hidden="true"></span>
           </a>{" "}
-          <a className="socrial-icon" href="https://www.linkedin.com/in/corinavaras/" target="_blank">
+          <a className="social-icon" href="https://www.linkedin.com/in/corinavaras/" target="_blank">
             <span className="fab fa-linkedin fa-fw" aria-hidden="true"></span>
           </a>{" "}
           <a className="social-icon" href="mailto:corinacvp@gmail.com">
