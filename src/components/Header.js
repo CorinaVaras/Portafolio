@@ -1,6 +1,6 @@
 import React from "react";
 import "../assets/css/header.css";
-import avatar from "../assets/img/corina.JPG";
+import avatar from "../assets/img/corina.png";
 import TypedText from "./TypedText";
 
 

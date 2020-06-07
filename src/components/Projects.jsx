@@ -6,7 +6,6 @@ import chooseChampions from "../assets/img/lol.png";
 import redsocial from '../assets/img/redsocial.svg';
 
 
-
 const Projects = () => {
     return (
         <>
