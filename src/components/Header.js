@@ -3,7 +3,6 @@ import "../assets/css/header.css";
 import avatar from "../assets/img/corina.png";
 import TypedText from "./TypedText";
 
-
 function header() {
   return (
     <div className="section-name">

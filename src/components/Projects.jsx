@@ -14,7 +14,7 @@ const Projects = () => {
                 <div className="proyects-hr"></div>
 
             <div className='cards-container'>
-                <figure className="snip1383"><img className="logo-fix" src="https://raw.githubusercontent.com/CorinaVaras/Globant-Hackthon/master/src/img/logo1.png" alt="sample75" />
+                <figure className="snip1383"><img className="logo-fix" src="https://raw.githubusercontent.com/CorinaVaras/Globant-Hackthon/master/src/img/logo1.png" alt="Share Food" />
                     <figcaption>
                         <h3>Share Food</h3>
                         <p>Mobile app to donate and share the food you have at home and you're not goint to eat.</p>
@@ -25,7 +25,7 @@ const Projects = () => {
                     </figcaption>
                 </figure>
 
-                <figure className="snip1383"><img src="https://raw.githubusercontent.com/CorinaVaras/SCL012-Social-Network-Frameworks/master/src/assets/image/logoMD.png" alt="sample75" />
+                <figure className="snip1383"><img src="https://raw.githubusercontent.com/CorinaVaras/SCL012-Social-Network-Frameworks/master/src/assets/image/logoMD.png" alt="Red social" />
                     <figcaption>
                         <h3>Red Social</h3>
                         <p>Social network to post your beauty tips on makeup and skin care routines.</p>
@@ -36,7 +36,7 @@ const Projects = () => {
                     </figcaption>
                 </figure>
 
-                <figure className="snip1383"><img src={tenpo} alt="sample75" />
+                <figure className="snip1383"><img src={tenpo} alt="Tenpo" />
                     <figcaption>
                         <h3>Tenpo</h3>
                         <p>Accesibility upgrade for people with disabilities in the financial app web login system.</p>
@@ -47,7 +47,7 @@ const Projects = () => {
                     </figcaption>
                 </figure>
 
-                <figure className="snip1383"><img src="https://raw.githubusercontent.com/CorinaVaras/SCL012-burger-queen/master/src/imagenes/logo.png" alt="sample75" />
+                <figure className="snip1383"><img src="https://raw.githubusercontent.com/CorinaVaras/SCL012-burger-queen/master/src/imagenes/logo.png" alt="Burger Queen" />
                     <figcaption>
                         <h3>Burger Queen</h3>
                         <p>The app purpose is to agilize the process of taking orders in a Restaurant.</p>
@@ -58,7 +58,7 @@ const Projects = () => {
                     </figcaption>
                 </figure>
 
-                <figure className="snip1383"><img className="logo-fix" src="https://raw.githubusercontent.com/CorinaVaras/Tic-Tac-Toe/master/assets/img1.png" alt="sample75" />
+                <figure className="snip1383"><img className="logo-fix" src="https://raw.githubusercontent.com/CorinaVaras/Tic-Tac-Toe/master/assets/img1.png" alt="Tic Tac Toe" />
                     <figcaption>
                         <h3>Tic Tac Toe</h3>
                         <p>Classic tic tac toe game for kids developed with react native.</p>
@@ -69,7 +69,7 @@ const Projects = () => {
                     </figcaption>
                 </figure>
 
-                <figure className="snip1383"><img src={here} alt="sample75" />
+                <figure className="snip1383"><img src={here} alt="Moov" />
                     <figcaption>
                         <h3>Moov</h3>
                         <p>App focused on accessible tourism in Chile for disabled tourists with reduced mobility.</p>
@@ -80,7 +80,7 @@ const Projects = () => {
                     </figcaption>
                 </figure>
 
-                <figure className="snip1383"><img src='https://raw.githubusercontent.com/CorinaVaras/marcy-foods/master/src/assets/img/logo.png' alt="sample75" />
+                <figure className="snip1383"><img src='https://raw.githubusercontent.com/CorinaVaras/marcy-foods/master/src/assets/img/logo.png' alt="Marcy Foods" />
                     <figcaption>
                         <h3>Marcy Foods</h3>
                         <p>Landing page of a small business about venezuelan food and cakes.</p>
@@ -91,7 +91,7 @@ const Projects = () => {
                     </figcaption>
                 </figure>
 
-                <figure className="snip1383"><img  className="logo-fix" src={redsocial} alt="sample75" />
+                <figure className="snip1383"><img  className="logo-fix" src={redsocial} alt="Tips Tech" />
                     <figcaption>
                         <h3>Tips Tech</h3>
                         <p>Technological social network where you can post and get offers about technology.</p>
@@ -102,7 +102,7 @@ const Projects = () => {
                     </figcaption>
                 </figure>
 
-                <figure className="snip1383"><img className="logo-fix-lol" src={chooseChampions} alt="sample75" />
+                <figure className="snip1383"><img className="logo-fix-lol" src={chooseChampions} alt="Choose Champ" />
                     <figcaption>
                         <h3>Choose Champ</h3>
                         <p>It's a mobile application to help any League of Legends player find more info related to the game.</p>

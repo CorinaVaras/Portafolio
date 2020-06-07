@@ -3,7 +3,6 @@ import "../assets/css/aboutme.css";
 
 function aboutMe() {
 
-
   return (
     <div className='section-about'>
 		<div>

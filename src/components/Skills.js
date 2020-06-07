@@ -7,9 +7,7 @@ function skills() {
     <div className="section-skills">
       <div>
         <h1 className="skills-title">Skills</h1>
-        <div className="skills-hr">
-          <hr />
-        </div>
+        <div className="skills-hr"></div>
         <div>
           <div className="icon-skill hvr-buzz-out">
             <svg viewBox="0 0 128 128">
