@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portafolio/static/css/main.10f74643.chunk.css",
+    "main.js": "/Portafolio/static/js/main.3613ae88.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.3613ae88.chunk.js.map",
+    "runtime-main.js": "/Portafolio/static/js/runtime-main.6b964254.js",
+    "runtime-main.js.map": "/Portafolio/static/js/runtime-main.6b964254.js.map",
+    "static/css/2.de424728.chunk.css": "/Portafolio/static/css/2.de424728.chunk.css",
+    "static/js/2.e54914c6.chunk.js": "/Portafolio/static/js/2.e54914c6.chunk.js",
+    "static/js/2.e54914c6.chunk.js.map": "/Portafolio/static/js/2.e54914c6.chunk.js.map",
+    "index.html": "/Portafolio/index.html",
+    "precache-manifest.319f265f32f2f56061e5d607e7125291.js": "/Portafolio/precache-manifest.319f265f32f2f56061e5d607e7125291.js",
+    "service-worker.js": "/Portafolio/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/Portafolio/static/css/2.de424728.chunk.css.map",
+    "static/css/main.10f74643.chunk.css.map": "/Portafolio/static/css/main.10f74643.chunk.css.map",
+    "static/js/2.e54914c6.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.e54914c6.chunk.js.LICENSE.txt",
+    "static/media/corina.JPG": "/Portafolio/static/media/corina.27ae5002.JPG",
+    "static/media/here.png": "/Portafolio/static/media/here.c6a142cb.png",
+    "static/media/lol.png": "/Portafolio/static/media/lol.059ada60.png",
+    "static/media/redsocial.svg": "/Portafolio/static/media/redsocial.0228ffdb.svg",
+    "static/media/tenpo.svg": "/Portafolio/static/media/tenpo.0a15a2b3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b964254.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.e54914c6.chunk.js",
+    "static/css/main.10f74643.chunk.css",
+    "static/js/main.3613ae88.chunk.js"
+  ]
+}
