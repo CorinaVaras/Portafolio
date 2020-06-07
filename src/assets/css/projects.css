@@ -1,0 +1,158 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,800);
+.prueba{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    width: 80%;
+}
+.cards-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 2em;
+    
+}
+.proyects-title {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  color: #34495e;
+  margin-top: 1rem;
+  font-weight: bolder;
+}
+.proyects-hr {
+  border: none;
+  height: 2px;
+  max-width: 60px;
+  margin: 10px 0;
+  background: #bdc3c7;
+}
+
+i {
+  font-size: 25px;
+  margin-right: 15px;
+}
+i:hover{
+  transform: scale(1.1);
+}
+
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,800);
+figure.snip1383 {
+  font-family: 'Raleway', Arial, sans-serif;
+  position: relative;
+  overflow: hidden;
+  margin: 10px;
+  min-width: 230px;
+  max-width: 315px;
+  /* max-height: 220px; */
+  height: 220px;
+  width: 100%;
+  color: #ffffff;
+  text-align: left;
+  background-color: whitesmoke;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+figure.snip1383 * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+  color: #ffffff;
+}
+figure.snip1383 img {
+  max-width: 100%;
+  -webkit-transition-delay: 0.2s;
+  transition-delay: 0.2s;
+  backface-visibility: hidden;
+}
+figure.snip1383 figcaption {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100%;
+  -webkit-transform: scale(0.5) translate(0%, -50%);
+  transform: scale(0.5) translate(0%, -50%);
+  -webkit-transform-origin: 50% 0%;
+  -ms-transform-origin: 50% 0%;
+  transform-origin: 50% 0%;
+  z-index: 1;
+  opacity: 0;
+  padding: 0 30px;
+  background-color: #07090c;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+figure.snip1383 h3,
+figure.snip1383 p {
+  line-height: 1.5em;
+}
+figure.snip1383 h3 {
+  margin: 0;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+figure.snip1383 p {
+  font-size: 0.8em;
+  font-weight: 500;
+  margin: 0 0 15px;
+}
+
+figure.snip1383:hover img,
+figure.snip1383.hover img {
+  -webkit-animation: snip1383 0.45s linear forwards;
+  animation: snip1383 0.45s linear forwards;
+  -webkit-animation-iteration-count: 1;
+  animation-iteration-count: 1;
+}
+figure.snip1383:hover figcaption,
+figure.snip1383.hover figcaption {
+  -webkit-transform: scale(1) translate(0, -50%);
+  transform: scale(1) translate(0, -50%);
+  opacity: 1;
+  -webkit-transition-delay: 0.35s;
+  transition-delay: 0.35s;
+}
+@-webkit-keyframes snip1383 {
+  50% {
+    -webkit-transform: scale(0.8) translateY(0%);
+    transform: scale(0.8) translateY(0%);
+    opacity: 0.5;
+  }
+  100% {
+    -webkit-transform: scale(0.8) translateY(150%);
+    transform: scale(0.8) translateY(150%);
+    opacity: 0.5;
+  }
+}
+@keyframes snip1383 {
+  50% {
+    -webkit-transform: scale(0.8) translateY(0%);
+    transform: scale(0.8) translateY(0%);
+    opacity: 0.5;
+  }
+  100% {
+    -webkit-transform: scale(0.8) translateY(150%);
+    transform: scale(0.8) translateY(150%);
+    opacity: 0.5;
+  }
+}
+
+.logo-fix{
+    padding: 50px;
+}
+
+.logo-fix-lol{
+    padding: 90px;
+}
+
+.btn-repo-container{
+    display: flex;
+}
+

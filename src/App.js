@@ -4,7 +4,8 @@ import "./App.css";
 import Header from "./components/Header";
 import AboutMe from "./components/AboutMe";
 import Skills from "./components/Skills";
-import Proyects from "./components/Proyects";
+// import Proyects from "./components/Proyects";
+import Projects from "./components/Projects.jsx";
 
 const particleOpt = {
   "particles": {
@@ -64,7 +65,7 @@ function App() {
       <Header />
       <AboutMe />
       <Skills />
-      <Proyects />
+      <Projects />
     </div>
   );
 }

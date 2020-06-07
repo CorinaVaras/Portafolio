@@ -36,13 +36,7 @@ function header() {
           >
             <span class="fab fa-github fa-fw" aria-hidden="true"></span>
           </a>{" "}
-          <a
-            className="social-icon"
-            href="https://twitter.com/CorinaVaras"
-            target="_blank"
-          >
-            <span class="fab fa-twitter fa-fw" aria-hidden="true"></span>
-          </a>{" "}
+         
           <a
             className="social-icon"
             href="https://cl.linkedin.com/in/corina-varas-80a50a19a?trk=public_profile_samename_profile_profile-result-card_result-card_full-click"
