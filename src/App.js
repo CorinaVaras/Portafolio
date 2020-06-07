@@ -1,10 +1,9 @@
-import React, { Fragment } from "react";
+import React from "react";
 import Particles from "react-particles-js";
 import "./App.css";
 import Header from "./components/Header";
 import AboutMe from "./components/AboutMe";
 import Skills from "./components/Skills";
-// import Proyects from "./components/Proyects";
 import Projects from "./components/Projects.jsx";
 
 const particleOpt = {
