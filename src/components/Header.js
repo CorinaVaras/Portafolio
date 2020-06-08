@@ -1,6 +1,6 @@
 import React from "react";
 import "../assets/css/header.css";
-import avatar from "../assets/img/cori.png";
+import avatar from "../assets/img/cori3cm.png";
 import TypedText from "./TypedText";
 
 function header() {
