@@ -25,10 +25,10 @@ function header() {
           <p>I'm a software engineer with a passion for building exciting experiences on the web.{" "}</p>
         </div>
         <div className="social-networks">
-          <a className="social-icon" href="https://github.com/CorinaVaras" target="_blank">
+          <a className="social-icon" href="https://github.com/CorinaVaras" target="_blank" rel="noopener noreferrer">
             <span className="fab fa-github fa-fw" aria-hidden="true"></span>
           </a>{" "}
-          <a className="social-icon" href="https://www.linkedin.com/in/corinavaras/" target="_blank">
+          <a className="social-icon" href="https://www.linkedin.com/in/corinavaras/" target="_blank" rel="noopener noreferrer">
             <span className="fab fa-linkedin fa-fw" aria-hidden="true"></span>
           </a>{" "}
           <a className="social-icon" href="mailto:corinacvp@gmail.com">

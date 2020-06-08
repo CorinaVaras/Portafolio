@@ -31,6 +31,34 @@
   fill: skyblue !important; 
 }
 
+.tooltip .tooltiptext {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 700;
+	visibility: hidden;
+	width: 120px;
+	background-color: #fff;
+	color: #2E3138;
+	text-align: center;
+	border-radius: 6px;
+	padding: 5px 0;
+	margin-top: 0.5em;
+	
+	/* Position the tooltip */
+	position: absolute;
+	z-index: 1;
+	top: 100%;
+	left: 50%;
+	margin-left: -60px;
+  }
+  
+  .tooltip:hover .tooltiptext {
+	visibility: visible;
+  }
+
+
+
+
+
 /* Responsive para celular */
 @media (max-width:700px) {
 	.section-skills{
@@ -54,9 +82,8 @@
 
 }
 
+
 /* CSS hvr-buzz */
-
-
 
 @-webkit-keyframes hvr-buzz-out {
   10% {

@@ -89,11 +89,11 @@ figure.snip1383 figcaption {
   justify-content: center;
   flex-direction: column;
 }
-figure.snip1383 h3,
+figure.snip1383 span,
 figure.snip1383 p {
   line-height: 1.5em;
 }
-figure.snip1383 h3 {
+figure.snip1383 span {
   margin: 0;
   font-weight: 800;
   text-transform: uppercase;
