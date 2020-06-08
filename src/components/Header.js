@@ -1,12 +1,13 @@
 import React from "react";
 import "../assets/css/header.css";
+import avatar from "../assets/img/cori.png";
 import TypedText from "./TypedText";
 
 function header() {
   return (
     <div className="section-name">
       <div>
-        <img className="_avatar" alt="foto de corina" src='https://avatars3.githubusercontent.com/u/56646549?s=400&u=75f9dd2c3d50a3be7cc6e198e5169c9a252044ef&v=4' />
+        <img className="_avatar" alt="foto de corina" src={avatar} />
       </div>
       <div style={{marginLeft: '2rem'}}>
         <div className='title_'>
