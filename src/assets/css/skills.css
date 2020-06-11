@@ -6,6 +6,8 @@
   display: flex;
   margin: auto;
   width: 80%;
+  padding-top: 2.5em;
+  padding-bottom: 1em;
 }
 
 .skills-title {
@@ -18,14 +20,13 @@
   border: none;
   height: 2px;
   max-width: 60px;
-  margin: 10px 0;
+  margin: 25px 0;
   background: #bdc3c7;
 }
 
 .icon-skill {
   width: 60px;
-  margin: 20px;
-  display: inline-block;
+  margin: 25px;
 }
 
 .icon-skill img {
@@ -61,28 +62,23 @@
   }
 
 
-
-
-
 /* Responsive para celular */
 @media (max-width:700px) {
 	.section-skills{
 		display: flex;
-    width: 86%;
   }
   .skills-title{
 		margin: 0;
 		display: flex;
-    margin-left: 1rem;
+   
 	}
-	.skills-hr{
-		margin-left: 1rem;
-		
-  }
+
   .icon-skill {
     width: 46px;
-    margin: 3px;
-    margin-left: 1rem;
+    margin: 12px;
+  }
+  .icon-skill img {
+    width: 55px;
   }
 
 }

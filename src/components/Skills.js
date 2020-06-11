@@ -6,7 +6,7 @@ import firebase from '../assets/img/firebase.png'
 
 function skills() {
   return (
-    <div className="section-skills">
+    <div className="section-skills" id='skills'>
       <div>
         <h1 className="skills-title">Skills</h1>
         <div className="skills-hr"></div>

@@ -2,14 +2,12 @@
 	box-sizing: border-box;
   }
 
-
-  
 .section-about{
 	display: flex;
     justify-content: center;
     margin: auto;
-    width: 80%;
-	
+	width: 80%;
+	padding-top: 4em;
 }
 .aboutme-title{
 	font-family: 'Roboto', sans-serif;
@@ -22,14 +20,13 @@
 	margin-top: 2px;
 	font-family: 'Roboto', sans-serif;
 	font-size: 20px;
-
-
+	color: #34495e;
 }
 .custom-hr{
 	border: none;
     height: 2px;
     max-width: 60px;
-    margin: 10px 0;
+    margin: 25px 0;
     background: #bdc3c7;
 }
 
@@ -42,26 +39,18 @@
 	.aboutme-title{
 		margin: 0;
 		display: flex;
-		margin-left: 1rem;
 	}
-	.custom-hr{
-		margin-left: 1rem;
-		
-	}
+
 	.aboutme-body{
-			margin-top: 1rem;
-			width: 87%;
-			margin-left: 1rem;
-			margin-bottom: 2rem;
-			font-size: 20px;
+		margin-top: 1rem;
+		margin-bottom: 2rem;
+		font-size: 20px;
 	}
 
 }
 @media (min-width:1800px){
 	.aboutme-body{
 		margin-top: 1rem;
-		width: 78%;
-		margin-left: 1rem;
 		margin-bottom: 2rem;
 		font-size: 20px;
 }

@@ -9,7 +9,7 @@ import redsocial from '../assets/img/redsocial.svg';
 const Projects = () => {
     return (
         <>
-        <div className='prueba'>
+        <div className='prueba' id='projects'>
                 <h1 className="proyects-title">Projects</h1>
                 <div className="proyects-hr"></div>
 

@@ -5,6 +5,8 @@ import Header from "./components/Header";
 import AboutMe from "./components/AboutMe";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects.jsx";
+import NavBar from './components/Navbar'
+import Footer from './components/Footer'
 
 const particleOpt = {
   "particles": {
@@ -57,6 +59,7 @@ const particleOpt = {
 function App() {
   return (
     <div className="App" >
+      <NavBar/>
       <Particles
         className="particle_"
         params={particleOpt}
@@ -65,6 +68,7 @@ function App() {
       <AboutMe />
       <Skills />
       <Projects />
+      <Footer />
     </div>
   );
 }

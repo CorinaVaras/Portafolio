@@ -5,6 +5,8 @@
     flex-direction: column;
     margin: auto;
     width: 80%;
+   
+    padding-top: 3em;
 }
 .cards-container{
   display: flex;
@@ -25,7 +27,7 @@
   border: none;
   height: 2px;
   max-width: 60px;
-  margin: 10px 0;
+  margin: 25px 0;
   background: #bdc3c7;
 }
 

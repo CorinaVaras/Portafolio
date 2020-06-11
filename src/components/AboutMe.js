@@ -4,7 +4,7 @@ import "../assets/css/aboutme.css";
 function aboutMe() {
 
   return (
-    <div className='section-about'>
+    <div className='section-about' id='aboutme'>
 		<div>
      		<h1 className='aboutme-title'>About Me</h1>
 		<div className='custom-hr'></div>
