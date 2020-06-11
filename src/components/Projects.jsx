@@ -30,8 +30,8 @@ const Projects = () => {
                         <span>Red Social</span>
                         <p>Social network to post your beauty tips on makeup and skin care routines.</p>
                             <div className='btn-repo-container'>
-                            <i onClick={() => window.open('https://github.com/CorinaVaras/SCL012-Social-Network-Frameworks','_blank')} className="fas fa-mobile-alt"></i>
-                            <i onClick={() => window.open('https://redsocial-makeup.web.app/','_blank')} className="fas fa-code"></i>
+                            <i onClick={() => window.open('https://redsocial-makeup.web.app/','_blank')} className="fas fa-mobile-alt"></i>
+                            <i onClick={() => window.open('https://github.com/CorinaVaras/SCL012-Social-Network-Frameworks','_blank')} className="fas fa-code"></i>
                             </div>
                     </figcaption>
                 </figure>

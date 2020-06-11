@@ -27,8 +27,13 @@
   margin: 20px;
   display: inline-block;
 }
+
+.icon-skill img {
+  width: 75px;
+}
+
 .react_{
-  fill: skyblue !important; 
+  fill: #32d7fd !important; 
 }
 
 .tooltip .tooltiptext {
