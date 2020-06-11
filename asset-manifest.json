@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.2affd6e5.chunk.css",
-    "main.js": "/Portafolio/static/js/main.de7de3a6.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.de7de3a6.chunk.js.map",
+    "main.css": "/Portafolio/static/css/main.082ac2ae.chunk.css",
+    "main.js": "/Portafolio/static/js/main.65442845.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.65442845.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.6b964254.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.6b964254.js.map",
-    "static/js/2.bdfc8e2a.chunk.js": "/Portafolio/static/js/2.bdfc8e2a.chunk.js",
-    "static/js/2.bdfc8e2a.chunk.js.map": "/Portafolio/static/js/2.bdfc8e2a.chunk.js.map",
+    "static/js/2.c797af32.chunk.js": "/Portafolio/static/js/2.c797af32.chunk.js",
+    "static/js/2.c797af32.chunk.js.map": "/Portafolio/static/js/2.c797af32.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.9694a0fb7b88973177edfd7f53fb8181.js": "/Portafolio/precache-manifest.9694a0fb7b88973177edfd7f53fb8181.js",
+    "precache-manifest.ae5e4ecfa92b3c0e8b6e3245afb19440.js": "/Portafolio/precache-manifest.ae5e4ecfa92b3c0e8b6e3245afb19440.js",
     "service-worker.js": "/Portafolio/service-worker.js",
-    "static/css/main.2affd6e5.chunk.css.map": "/Portafolio/static/css/main.2affd6e5.chunk.css.map",
-    "static/js/2.bdfc8e2a.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.bdfc8e2a.chunk.js.LICENSE.txt",
+    "static/css/main.082ac2ae.chunk.css.map": "/Portafolio/static/css/main.082ac2ae.chunk.css.map",
+    "static/js/2.c797af32.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.c797af32.chunk.js.LICENSE.txt",
     "static/media/cori3cm.png": "/Portafolio/static/media/cori3cm.b3f07347.png",
     "static/media/here.png": "/Portafolio/static/media/here.c6a142cb.png",
     "static/media/lol.png": "/Portafolio/static/media/lol.059ada60.png",
-    "static/media/react.png": "/Portafolio/static/media/react.4a2e32e0.png",
     "static/media/redsocial.svg": "/Portafolio/static/media/redsocial.0228ffdb.svg",
     "static/media/tenpo.svg": "/Portafolio/static/media/tenpo.0a15a2b3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6b964254.js",
-    "static/js/2.bdfc8e2a.chunk.js",
-    "static/css/main.2affd6e5.chunk.css",
-    "static/js/main.de7de3a6.chunk.js"
+    "static/js/2.c797af32.chunk.js",
+    "static/css/main.082ac2ae.chunk.css",
+    "static/js/main.65442845.chunk.js"
   ]
 }
