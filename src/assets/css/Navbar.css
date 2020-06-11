@@ -2,6 +2,10 @@
   display: flex;
   justify-content: center;
 }
+.container-all i{
+  margin-left: 1em;
+  color: #f4f1de;
+}
 
 .container-nav {
     display: flex;
@@ -11,7 +15,6 @@
     position: fixed;
     width: 80%;
     z-index: 2;
-    
   }
 
   .container-img  {
@@ -57,7 +60,7 @@
       display: flex;
       align-items: center;
       width: 100%;
-      background-color: #f4f1de;
+      background-color: #e07a5f;
     }
   
     .container-img {
@@ -66,13 +69,15 @@
     .container-items {
       display: flex;
       flex-direction: column;
-      height: max-content;
-      background-color: #f4f1de;
+      align-self: flex-start;
     }
     .item-nav {
       display: flex;
       padding: 5px;
-      font-size: 16px;
+      font-size: 18px;
+      align-self: flex-start;
+      margin-left: 1em;
+      color: white;
     }
   
     #toggle:checked ~ .container-nav {
@@ -80,6 +85,8 @@
       margin: 0;
       position: absolute;
       margin-top: 4em;
+      background-color: #e07a5f;
+      height: max-content;
     }
   
     .container-nav {

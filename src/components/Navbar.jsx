@@ -1,5 +1,4 @@
 import React from "react";
-import menu from "../assets/img/menuIcon.png";
 import "../assets/css/Navbar.css";
 import logo from "../assets/img/logo.png";
 import { Link } from "react-scroll";
@@ -8,11 +7,7 @@ const NavBar = () => {
   return (
     <div className='container-all'>
       <label htmlFor="toggle">
-        <img
-          style={{ width: "50px", height: "50px", padding: "10px" }}
-          alt="menuIcon"
-          src={menu}
-        />
+      <i class="fas fa-bars"></i>
       </label>
       <input type="checkbox" id="toggle" />
 
