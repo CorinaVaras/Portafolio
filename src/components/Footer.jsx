@@ -23,7 +23,7 @@ const Footer = () => {
           </div>
           
 
-        <p>© 2020 Corina Varas Developer</p> 
+        <small>© 2020 Corina Varas Developer</small> 
             
         </div>
     )

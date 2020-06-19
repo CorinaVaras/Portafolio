@@ -14,17 +14,7 @@ const Projects = () => {
                 <div className="proyects-hr"></div>
 
             <div className='cards-container'>
-                <figure className="snip1383"><img className="logo-fix" src="https://raw.githubusercontent.com/CorinaVaras/Globant-Hackthon/master/src/img/logo1.png" alt="Share Food" />
-                    <figcaption>
-                        <span>Share Food</span>
-                        <p>Mobile app to donate and share the food you have at home and you're not goint to eat.</p>
-                            <div className='btn-repo-container'>
-                            <i onClick={() => window.open('https://globant-hackathon.web.app/','_blank')} className="fas fa-mobile-alt"></i>
-                            <i onClick={() => window.open('https://github.com/CorinaVaras/Globant-Hackthon','_blank')} className="fas fa-code"></i>
-                            </div>
-                    </figcaption>
-                </figure>
-
+                
                 <figure className="snip1383"><img src="https://raw.githubusercontent.com/CorinaVaras/SCL012-Social-Network-Frameworks/master/src/assets/image/logoMD.png" alt="Red social" />
                     <figcaption>
                         <span>Red Social</span>
@@ -36,17 +26,6 @@ const Projects = () => {
                     </figcaption>
                 </figure>
 
-                <figure className="snip1383"><img src={tenpo} alt="Tenpo" />
-                    <figcaption>
-                        <span>Tenpo</span>
-                        <p>Accesibility upgrade for people with disabilities in the financial app web login system.</p>
-                            <div className='btn-repo-container'>
-                            <i onClick={() => window.open('https://tenpo-hackathon.web.app/','_blank')} className="fas fa-mobile-alt"></i>
-                            <i onClick={() => window.open('https://github.com/CorinaVaras/scl012-tenpo','_blank')} className="fas fa-code"></i>
-                            </div>
-                    </figcaption>
-                </figure>
-
                 <figure className="snip1383"><img src="https://raw.githubusercontent.com/CorinaVaras/SCL012-burger-queen/master/src/imagenes/logo.png" alt="Burger Queen" />
                     <figcaption>
                         <span>Burger Queen</span>
@@ -54,6 +33,28 @@ const Projects = () => {
                             <div className='btn-repo-container'>
                             <i onClick={() => window.open('https://burger-queen-f6c33.firebaseapp.com/','_blank')} className="fas fa-mobile-alt"></i>
                             <i onClick={() => window.open('https://github.com/CorinaVaras/SCL012-burger-queen','_blank')} className="fas fa-code"></i>
+                            </div>
+                    </figcaption>
+                </figure>
+
+                <figure className="snip1383"><img className="logo-fix" src="https://raw.githubusercontent.com/CorinaVaras/Globant-Hackthon/master/src/img/logo1.png" alt="Share Food" />
+                    <figcaption>
+                        <span>Share Food</span>
+                        <p>Mobile app to donate and share the food you have at home and you're not goint to eat.</p>
+                            <div className='btn-repo-container'>
+                            <i onClick={() => window.open('https://globant-hackathon.web.app/','_blank')} className="fas fa-mobile-alt"></i>
+                            <i onClick={() => window.open('https://github.com/CorinaVaras/Globant-Hackthon','_blank')} className="fas fa-code"></i>
+                            </div>
+                    </figcaption>
+                </figure>
+
+                <figure className="snip1383"><img src={tenpo} alt="Tenpo" />
+                    <figcaption>
+                        <span>Tenpo</span>
+                        <p>Accesibility upgrade for people with disabilities in the financial app web login system.</p>
+                            <div className='btn-repo-container'>
+                            <i onClick={() => window.open('https://tenpo-hackathon.web.app/','_blank')} className="fas fa-mobile-alt"></i>
+                            <i onClick={() => window.open('https://github.com/CorinaVaras/scl012-tenpo','_blank')} className="fas fa-code"></i>
                             </div>
                     </figcaption>
                 </figure>
