@@ -1,20 +1,19 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,800);
-.prueba{
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    margin: auto;
-    width: 80%;
-   
-    padding-top: 3em;
+@import url(https://fonts.googleapis.com/css?family=Raleway:400, 500, 800);
+.prueba {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: auto;
+  width: 80%;
+
+  padding-top: 3em;
 }
-.cards-container{
+.cards-container {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   margin-bottom: 2em;
-    
 }
 .proyects-title {
   font-family: "Roboto", sans-serif;
@@ -35,13 +34,13 @@ i {
   font-size: 25px;
   margin-right: 15px;
 }
-i:hover{
+i:hover {
   transform: scale(1.1);
 }
 
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,800);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400, 500, 800);
 figure.snip1383 {
-  font-family: 'Raleway', Arial, sans-serif;
+  font-family: "Raleway", Arial, sans-serif;
   position: relative;
   overflow: hidden;
   margin: 10px;
@@ -84,7 +83,7 @@ figure.snip1383 figcaption {
   z-index: 1;
   opacity: 0;
   padding: 0 30px;
-  background-color:rgb(21, 114, 182);
+  background-color: #34495e;
   height: 100%;
   display: flex;
   align-items: center;
@@ -145,13 +144,12 @@ figure.snip1383.hover figcaption {
     opacity: 0.5;
   }
 }
-.logo-fix{
-    padding: 50px;
+.logo-fix {
+  padding: 50px;
 }
-.logo-fix-lol{
-    padding: 90px;
+.logo-fix-lol {
+  padding: 90px;
 }
-.btn-repo-container{
-    display: flex;
+.btn-repo-container {
+  display: flex;
 }
-
