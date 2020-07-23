@@ -5,27 +5,24 @@ import { Link } from "react-scroll";
 
 const NavBar = () => {
   return (
-    <div className='container-all'>
+    <div className="container-all">
       <label htmlFor="toggle">
-      <i className="fas fa-bars"></i>
+        <i className="fas fa-bars"></i>
       </label>
       <input type="checkbox" id="toggle" />
 
       <div className="container-nav">
         <div className="container-img">
-        <Link
-              activeClass="active"
-              to="header"
-              spy={true}
-              smooth={true}
-              offset={-70}
-              duration={600}
-            >
-          <img
-            alt="marcyfood"
-            src={logo}
-            />
-          </Link>  
+          <Link
+            activeClass="active"
+            to="header"
+            spy={true}
+            smooth={true}
+            offset={-70}
+            duration={600}
+          >
+            <img alt="Logo" src={logo} />
+          </Link>
         </div>
         <div className="container-items">
           <div className="item-nav ">
