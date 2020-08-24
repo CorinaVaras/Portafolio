@@ -1,58 +1,59 @@
 * {
-	box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.section-about {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  height: 300px;
+  padding-top: 2em;
+  margin-top: 4.5em;
+  background-color: #191b1f;
+}
+
+.section-about h2 {
+  font-family: "Roboto", sans-serif;
+  font-size: 30px;
+  color: #fff;
+  font-weight: bolder;
+  margin: 0px;
+}
+
+.aboutme-body {
+  text-align: justify;
+  margin-top: 2px;
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  color: #fff;
+}
+.custom-hr {
+  height: 2px;
+  max-width: 60px;
+  margin: 4px 0px 15px;
+  background: #bdc3c7;
+}
+
+/* Responsive para celular  */
+@media (max-width: 700px) {
+  .section-about {
+    display: flex;
+    width: 100%;
+  }
+  .section-about h2 {
+    font-size: 20px;
   }
 
-.section-about{
-	display: flex;
-    justify-content: center;
-    margin: auto;
-	width: 80%;
-	padding-top: 4em;
+  .aboutme-body {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-size: 18px;
+  }
 }
-.aboutme-title{
-	font-family: 'Roboto', sans-serif;
-	font-size: 30px;
-	color: #34495e;
-	font-weight: bolder;
-}
-.aboutme-body{
-	text-align : justify;
-	margin-top: 2px;
-	font-family: 'Roboto', sans-serif;
-	font-size: 20px;
-	color: #34495e;
-}
-.custom-hr{
-	border: none;
-    height: 2px;
-    max-width: 60px;
-    margin: 25px 0;
-    background: #bdc3c7;
-}
-
-/* Responsive para celular */
-@media (max-width:700px) {
-	.section-about{
-		display: flex;
-		width: 84%;
-	}
-	.aboutme-title{
-		margin: 0;
-		display: flex;
-	}
-
-	.aboutme-body{
-		margin-top: 1rem;
-		margin-bottom: 2rem;
-		font-size: 20px;
-	}
-
-}
-@media (min-width:1800px){
-	.aboutme-body{
-		margin-top: 1rem;
-		margin-bottom: 2rem;
-		font-size: 20px;
-}
-
+@media (min-width: 1800px) {
+  .aboutme-body {
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-size: 20px;
+  }
 }
