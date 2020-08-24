@@ -1,37 +1,37 @@
-.container-all {
-  display: flex;
-  justify-content: center;
-}
 .container-all i {
   margin-left: 1em;
-  color: white;
 }
 
 .container-nav {
   display: flex;
-  background-color: white;
-  height: 6em;
+  justify-content: space-between;
+  background-color: #ffffff;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   position: fixed;
-  width: 80%;
+  width: 100%;
   z-index: 2;
+  height: 4em;
 }
 
 .container-img {
   display: flex;
   align-items: center;
   cursor: pointer;
+  margin-left: 8em;
+}
+
+.container-img img {
+  width: 110px;
 }
 
 .container-items {
   display: flex;
-  flex-grow: 1;
-  justify-content: flex-end;
+  margin-right: 8em;
 }
 
 .item-nav {
   font-size: 20px;
-  color: #3d405b;
+  color: #a3a3a5;
   margin-left: 2em;
   display: flex;
   align-self: center;

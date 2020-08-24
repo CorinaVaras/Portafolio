@@ -5,7 +5,7 @@ import { Link } from "react-scroll";
 
 const NavBar = () => {
   return (
-    <div className="container-all">
+    <div>
       <label htmlFor="toggle">
         <i className="fas fa-bars"></i>
       </label>
@@ -24,12 +24,13 @@ const NavBar = () => {
             <img alt="Logo" src={logo} />
           </Link>
         </div>
+
         <div className="container-items">
           <div className="item-nav ">
             <Link
               className="hvr-underline-from-center"
               activeClass="active"
-              to="aboutme"
+              to="aboutme-skills"
               spy={true}
               smooth={true}
               offset={-70}
@@ -42,7 +43,7 @@ const NavBar = () => {
             <Link
               className="hvr-underline-from-center"
               activeClass="active"
-              to="skills"
+              to="aboutme-skills"
               spy={true}
               smooth={true}
               offset={-70}
