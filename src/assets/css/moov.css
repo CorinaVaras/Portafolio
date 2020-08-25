@@ -1,0 +1,28 @@
+.container-card {
+  display: flex;
+  justify-content: center;
+  background-color: #a3a3a5;
+}
+
+.card-one {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-size: 18px;
+  width: 40%;
+  color: #fff;
+  padding-top: 2em;
+  padding-right: 1em;
+  text-align: justify;
+}
+
+.card-two {
+  display: flex;
+  justify-content: flex-end;
+  width: 40%;
+}
+
+i {
+  font-size: 45px;
+  color: #293939;
+}

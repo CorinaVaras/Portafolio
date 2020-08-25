@@ -1,0 +1,19 @@
+.card {
+  display: flex;
+  /* background-color: coral; */
+}
+
+.card-fist {
+  display: flex;
+  justify-content: flex-end;
+  width: 50%;
+  /* background-color: crimson; */
+  padding-right: 2em;
+}
+
+.card-second {
+  font-size: 18px;
+  width: 30%;
+  color: #a3a3a5;
+  /* background-color: darkgreen; */
+}
