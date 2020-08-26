@@ -4,7 +4,7 @@ import avatar from "../assets/img/cori3cm.png";
 import TypedText from "./TypedText";
 
 function header() {
-  const amazing = "<amazing/>";
+  const amazing = "<Amazing/>";
 
   return (
     <div className="section-name" id="header">
