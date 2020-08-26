@@ -15,8 +15,7 @@ const Moov = () => {
         </p>
         <div
           style={{
-            display: "flex",
-            justifyContent: "center",
+            marginBottom: "1em",
             cursor: "pointer",
           }}
         >
