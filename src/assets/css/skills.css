@@ -9,6 +9,11 @@
   height: 280px;
   padding-bottom: 1em;
   background-color: #191b1f;
+  /* background-color: chartreuse; */
+}
+
+.skills-all {
+  width: 80%;
 }
 
 .skills-title {
@@ -57,7 +62,8 @@
 /* Responsive para celular */
 @media (max-width: 700px) {
   .section-skills {
-    padding-top: 7em;
+    height: 245px;
+    padding-top: 1em;
   }
   .skills-title {
     margin: 0;

@@ -50,10 +50,17 @@ label {
   label {
     margin: 0px;
     height: 4rem;
+    padding-left: 2em;
     display: flex;
     align-items: center;
     width: 100%;
-    background-color: #e07a5f;
+    /* background-color: #e07a5f; */
+    background-color: #ffffff;
+  }
+  .fa-bars:before {
+    content: "\f0c9";
+    color: #a3a3a5;
+    font-size: 40px;
   }
 
   .container-img {
@@ -69,16 +76,14 @@ label {
     padding: 5px;
     font-size: 18px;
     align-self: flex-start;
-    margin-left: 1em;
-    color: white;
+    margin-left: 1.5em;
+    color: #000000;
   }
 
   #toggle:checked ~ .container-nav {
     display: flex;
     margin: 0;
     position: absolute;
-    margin-top: 4em;
-    background-color: #e07a5f;
     height: max-content;
   }
 

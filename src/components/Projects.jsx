@@ -6,7 +6,7 @@ import Moov from "./Moov";
 const Projects = () => {
   return (
     <>
-      <div className="container-projects">
+      <div className="container-projects" id="projects">
         <div style={{ width: "80%" }}>
           <h2 className="projects-title">Projects</h2>
           <div className="custom-hr"></div>

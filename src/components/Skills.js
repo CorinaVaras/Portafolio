@@ -9,7 +9,7 @@ import redux from "../assets/img/redux.png";
 function skills() {
   return (
     <div className="section-skills" id="aboutme-skills">
-      <div style={{ width: "80%" }}>
+      <div className="skills-all">
         <h2 className="skills-title">Skills</h2>
         <div className="custom-hr"></div>
         <div>

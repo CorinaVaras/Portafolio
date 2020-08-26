@@ -18,21 +18,18 @@ const TripAvisor = () => {
           see the section of the top 5 restaurants and you can send reviews of
           the restaurants where you have eaten if you wish.
         </p>
-        <div>
+        <div style={{ marginBottom: "1em", cursor: "pointer" }}>
           <img
             onClick={() =>
-              window.open(
-                "https://github.com/CorinaVaras/Tic-Tac-Toe",
-                "_blank"
-              )
+              window.open("https://expo.io/@corinavaras/5-tenedores", "_blank")
             }
             src={expo}
           />
           <img
-            style={{ width: "45px", marginLeft: "1em" }}
+            style={{ width: "45px", marginLeft: "1em", cursor: "pointer" }}
             onClick={() =>
               window.open(
-                "https://github.com/CorinaVaras/Tic-Tac-Toe",
+                "https://github.com/CorinaVaras/5-tenedores",
                 "_blank"
               )
             }

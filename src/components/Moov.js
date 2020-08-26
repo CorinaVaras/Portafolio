@@ -1,6 +1,6 @@
 import React from "react";
 import "../assets/css/moov.css";
-import moov from "../assets/img/here.png";
+import moov from "../assets/img/moov.png";
 import github from "../assets/img/github-1.png";
 
 const Moov = () => {
@@ -13,23 +13,21 @@ const Moov = () => {
           you can find great and beautiful inclusive tourist places of Chile
           ideal to be visited by people specifically in wheelchairs.
         </p>
-        <div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            cursor: "pointer",
+          }}
+        >
           <i
-            onClick={() =>
-              window.open(
-                "https://github.com/CorinaVaras/Tic-Tac-Toe",
-                "_blank"
-              )
-            }
+            onClick={() => window.open("https://moov-8e44e.web.app/", "_blank")}
             className="fas fa-mobile-alt"
           ></i>
           <img
-            style={{ width: "45px", marginLeft: "1em" }}
+            style={{ width: "45px", marginLeft: "1em", cursor: "pointer" }}
             onClick={() =>
-              window.open(
-                "https://github.com/CorinaVaras/Tic-Tac-Toe",
-                "_blank"
-              )
+              window.open("https://github.com/CorinaVaras/moov", "_blank")
             }
             src={github}
           />
