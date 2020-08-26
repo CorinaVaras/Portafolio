@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.2c9b768c.chunk.css",
-    "main.js": "/Portafolio/static/js/main.a45fd617.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.a45fd617.chunk.js.map",
+    "main.css": "/Portafolio/static/css/main.0054eb70.chunk.css",
+    "main.js": "/Portafolio/static/js/main.98b9896f.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.98b9896f.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.6b964254.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.6b964254.js.map",
-    "static/js/2.b18de98b.chunk.js": "/Portafolio/static/js/2.b18de98b.chunk.js",
-    "static/js/2.b18de98b.chunk.js.map": "/Portafolio/static/js/2.b18de98b.chunk.js.map",
+    "static/js/2.f0437a16.chunk.js": "/Portafolio/static/js/2.f0437a16.chunk.js",
+    "static/js/2.f0437a16.chunk.js.map": "/Portafolio/static/js/2.f0437a16.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.c44e50f5869e6103e2f7e372455ce297.js": "/Portafolio/precache-manifest.c44e50f5869e6103e2f7e372455ce297.js",
+    "precache-manifest.4784ec9182d3fe1e16fa9d756804ff5c.js": "/Portafolio/precache-manifest.4784ec9182d3fe1e16fa9d756804ff5c.js",
     "service-worker.js": "/Portafolio/service-worker.js",
-    "static/css/main.2c9b768c.chunk.css.map": "/Portafolio/static/css/main.2c9b768c.chunk.css.map",
-    "static/js/2.b18de98b.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.b18de98b.chunk.js.LICENSE.txt",
+    "static/css/main.0054eb70.chunk.css.map": "/Portafolio/static/css/main.0054eb70.chunk.css.map",
+    "static/js/2.f0437a16.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.f0437a16.chunk.js.LICENSE.txt",
     "static/media/cori3cm.png": "/Portafolio/static/media/cori3cm.b3f07347.png",
-    "static/media/here.png": "/Portafolio/static/media/here.c6a142cb.png",
-    "static/media/logo.png": "/Portafolio/static/media/logo.75e91355.png",
-    "static/media/lol.png": "/Portafolio/static/media/lol.059ada60.png",
-    "static/media/redsocial.svg": "/Portafolio/static/media/redsocial.0228ffdb.svg",
-    "static/media/tenpo.svg": "/Portafolio/static/media/tenpo.0a15a2b3.svg"
+    "static/media/github.png": "/Portafolio/static/media/github.a82977fa.png",
+    "static/media/imgPortafolio.png": "/Portafolio/static/media/imgPortafolio.9561be16.png",
+    "static/media/logo.png": "/Portafolio/static/media/logo.f528f35a.png",
+    "static/media/moov.png": "/Portafolio/static/media/moov.5f9717b3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6b964254.js",
-    "static/js/2.b18de98b.chunk.js",
-    "static/css/main.2c9b768c.chunk.css",
-    "static/js/main.a45fd617.chunk.js"
+    "static/js/2.f0437a16.chunk.js",
+    "static/css/main.0054eb70.chunk.css",
+    "static/js/main.98b9896f.chunk.js"
   ]
 }
